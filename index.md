@@ -1,23 +1,23 @@
 # Mindanao State University
 
-# Project links
-## Online Enroll Module
+## Project links
+### Online Enroll Module
 `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
 `Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) 
 
-# Projects
-## Online Enrollment Module <br />
-### Project status <br />
+## Projects
+### Online Enrollment Module <br />
+#### Project status <br />
 - [x] &nbsp; Active development <br />
 
 ![img](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif)
 
-### Next minor release `1.1.0-stable`
+#### Next minor release `1.1.0-stable`
  - Add prerequisites view <br />
  - Add cognates grouping
 
-### Stable Version Releases
-### `1.0.0-stable` <br/>
+#### Stable Version Releases
+#### `1.0.0-stable` <br/>
 #### Features
 1. Search student
 2. Enroll subject
@@ -29,5 +29,5 @@
 8. Print enrollment billing form
 9. View student information
 10. View student adviser
-### Backend Version `1.0.0-stable`
+#### Backend Version `1.0.0-stable`
 
