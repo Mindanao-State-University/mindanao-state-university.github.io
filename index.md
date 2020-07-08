@@ -2,13 +2,13 @@
 
 ### Project links
  `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
-  [x]  Online
+  - [x] Online
 
 `Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) <br />
- [ ]  Online
+  - [ ] Online
 
 ### Project status
-> [x]  Active development
+> - [x] Active development
 
 ![img](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif)
 
