@@ -1,10 +1,10 @@
 ## Mindanao State University
 
 ### Project links
- `Production` - https://enroll.msumain.edu.ph
+ `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
   [x]  Online
 
-`Development` - https://enrolldev.msumain.edu.ph
+`Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) <br />
  [ ]  Online
 
 ### Project status
@@ -18,7 +18,7 @@
 
 ### Stable Version Releases
 > ### `1.0.0-stable` <br/>
-> #### Features
+>> #### Features
 >> 1. Search student
 >> 2. Enroll subject
 >> 3. Delete enrolled subject
@@ -28,5 +28,7 @@
 >> 7. View evaluation
 >> 8. Print enrollment billing form
 >> 9. View student information
->> 10. View student adviser
->> #### Backend Version `1.0.0-stable` <br />
+>> 10. View student adviser <br />
+>> ### Backend Version 
+>> `1.0.0-stable` <br />
+
