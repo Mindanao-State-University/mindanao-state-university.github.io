@@ -1,15 +1,14 @@
 # Mindanao State University
 
-### Project links
-1. Enrollment
+# Project links
+## Online Enroll Module
 > `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
 > - [x] &nbsp; Online <br />
 > `Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) <br />
 > - [ ] &nbsp; Online
 
 # Projects
-
-1. Online Enrollment Module <br />
+## Online Enrollment Module <br />
 ### Project status <br />
 - [x] &nbsp; Active development <br />
 
