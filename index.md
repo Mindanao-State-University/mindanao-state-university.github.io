@@ -2,10 +2,8 @@
 
 # Project links
 ## Online Enroll Module
-> `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
-> - [x] &nbsp; Online <br />
-> `Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) <br />
-> - [ ] &nbsp; Online
+`Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
+`Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) 
 
 # Projects
 ## Online Enrollment Module <br />
@@ -19,18 +17,17 @@
  - Add cognates grouping
 
 ### Stable Version Releases
-> ### `1.0.0-stable` <br/>
->> #### Features
->> 1. Search student
->> 2. Enroll subject
->> 3. Delete enrolled subject
->> 4. Confirm enrollment
->> 5. Revert enrollment confirmation
->> 6. View previous grades
->> 7. View evaluation
->> 8. Print enrollment billing form
->> 9. View student information
->> 10. View student adviser
->> ### Backend Version 
->> `1.0.0-stable`
+### `1.0.0-stable` <br/>
+#### Features
+1. Search student
+2. Enroll subject
+3. Delete enrolled subject
+4. Confirm enrollment
+5. Revert enrollment confirmation
+6. View previous grades
+7. View evaluation
+8. Print enrollment billing form
+9. View student information
+10. View student adviser
+### Backend Version `1.0.0-stable`
 
