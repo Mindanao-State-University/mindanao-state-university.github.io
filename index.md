@@ -28,7 +28,7 @@
 >> 7. View evaluation
 >> 8. Print enrollment billing form
 >> 9. View student information
->> 10. View student adviser <br />
+>> 10. View student adviser
 >> ### Backend Version 
->> `1.0.0-stable` <br />
+>> `1.0.0-stable`
 
