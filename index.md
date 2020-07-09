@@ -13,8 +13,13 @@
 ![img](https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif)
 
 #### Next minor release `1.1.0-stable`
+### Features
  - Add prerequisites view <br />
  - Add cognates grouping
+ - Add electives on evaluation
+ - Add reservation remarks
+
+<hr/>
 
 #### Stable Version Releases
 #### `1.0.0-stable` <br/>
