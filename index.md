@@ -1,11 +1,18 @@
 # Mindanao State University
 
 ## Project links
+### SASE Application
+`Production` - [https://sase.msumain.edu.ph](https://sase.msumain.edu.ph)
+
 ### Online Enroll Module
 `Production` - [https://enroll.msumain.edu.ph](https://enroll.msumain.edu.ph) <br />
 `Development` - [https://enrolldev.msumain.edu.ph](https://enrolldev.msumain.edu.ph) 
 
 ## Projects
+### SASE Application <br />
+#### Project status <br />
+- [ ] &nbsp; Active development <br />
+
 ### Online Enrollment Module <br />
 #### Project status <br />
 - [x] &nbsp; Active development <br />
@@ -22,6 +29,16 @@
 <hr/>
 
 #### Stable Version Releases
+#### `1.0.3-stable` <br />
+1. Fix issues with page breaking on null schedule
+
+#### `1.0.2-stable` <br />
+1. Allow enrollment for non-academic category
+2. Allow change section on enrollment even after having maximum units enrolled
+
+#### `1.0.1-stable` <br />
+1. Fix issues with section loading from the previous active subject from the previous student even after searching another student.
+
 #### `1.0.0-stable` <br/>
 #### Features
 1. Search student
