@@ -30,13 +30,16 @@
 
 #### Stable Version Releases
 #### `1.0.3-stable` <br />
+#### Fixes
 1. Fix issues with page breaking on null schedule
 
 #### `1.0.2-stable` <br />
+#### Changes
 1. Allow enrollment for non-academic category
 2. Allow change section on enrollment even after having maximum units enrolled
 
 #### `1.0.1-stable` <br />
+#### Fixes
 1. Fix issues with section loading from the previous active subject from the previous student even after searching another student.
 
 #### `1.0.0-stable` <br/>
